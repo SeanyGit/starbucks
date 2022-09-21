@@ -39,3 +39,38 @@ _이텔릭_<br>
 ![HEROPY](./images/badge1.jpg)
 
 [![HEROPY](./images/badge1.jpg)](https://naver.com)
+
+# 인용문
+
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
+> (네이버 국어 사전)
+
+
+# 인라인코드 강조
+
+CSS에서 `백그라운드` 혹은 이미지 속성으로 요소에 배경 이미지를 삽입할수 있습니다.
+
+# 블럭코드 강조
+
+```html
+<a herf ='https://naver.com'></a>
+```
+
+# 표
+
+position 속성
+
+값 | 의미 | 기본값
+-- | :--: | --:
+static | 기준없음 | O
+relative | 요소자신 | X
+absolute | 위치상부모요소 | X
+
+
+# 원시 HTML
+
+# 수평선
+
+---
+***
+___
